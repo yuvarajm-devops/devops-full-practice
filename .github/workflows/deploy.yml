@@ -10,7 +10,7 @@ env:
   BACKEND_IMAGE: yuvarajm1810/realtime-backend-v1
   EC2_USER: ubuntu
   EC2_HOST: 43.205.112.177
-  EC2_APP_DIR: /home/ubuntu/app
+  EC2_APP_DIR: /home/ubuntu/devops
 
 jobs:
 
