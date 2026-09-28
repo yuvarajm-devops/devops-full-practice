@@ -9,7 +9,7 @@ env:
   FRONTEND_IMAGE: yuvarajm1810/realtime-frontend-v1
   BACKEND_IMAGE: yuvarajm1810/realtime-backend-v1
   EC2_USER: ubuntu
-  EC2_HOST: YOUR_EC2_PUBLIC_IP
+  EC2_HOST: 43.205.112.177
   EC2_APP_DIR: /home/ubuntu/app
 
 jobs:
